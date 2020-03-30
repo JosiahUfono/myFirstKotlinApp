@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My StartNG Details</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name: Ufono, Josiah Unimke</string>
+    <string name="username">Username:     Josiah</string>
+    <string name="email">Email: josiahufono@gmail.com</string>
+    <string name="tracks">Tracks: Kotlin, Flutter, NodeJS</string>
+</resources>
